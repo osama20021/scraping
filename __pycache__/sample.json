@@ -1,0 +1,14 @@
+    TransferSubject TransferCourse               Transfer Title  ... OUCredits               Gen. Ed. Pass
+0              ACCB            129  INTRODUCTION TO BOOKKEEPING  ...         5                    NaN  NaN
+1              ACCB            229    QUICKBOOKS PRO ACCOUNTING  ...         5                    NaN  NaN
+2              ACCT            201           PRIN OF ACCOUNTING  ...         3                    NaN  NaN
+3              ACCT            201           PRIN OF ACCOUNTING  ...         1                    NaN  NaN
+4              ACCT            202             PRINC OF ACCT II  ...         3                    NaN  NaN
+..              ...            ...                          ...  ...       ...                    ...  ...
+306            THEA            201               THEATRE HIST I  ...         3  Gen Ed-Artistic Forms  NaN
+307            THEA            202           THEATRE HISTORY II  ...         3                    NaN  NaN
+308            TREA            101         THEATRE APPRECIATION  ...         3                    NaN  NaN
+309            WELL            100            WELL SNADBOX-DANC  ...         1                    NaN  NaN
+310            WELL            101          LIFELONG WELLNESS I  ...         1                    NaN  NaN
+
+[311 rows x 12 columns]
